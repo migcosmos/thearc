@@ -14,11 +14,7 @@
   --checked-blue: #052ae2CC;
 
   /* ranking border colors */
-  --grade-1: #00b3ff;
-  --grade-2: #ffa72f;
-  --grade-3: #ff2842;
-  --grade-4: #ab81f5;
-  --no-rank: #707070;
+  --arc-1: #858585;
 }
 
 p {
